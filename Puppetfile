@@ -17,7 +17,7 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 mod 'jpi-timezone_win', '0.1.6'
 #mod 'puppetlabs-powershell', '5.0.0'
-mod 'puppetlabs-pwshlib', '0.8.0'
+#mod 'puppetlabs-pwshlib', '0.8.0'
 
 mod 'puppetlabs/inifile', '3.0.0'
 mod 'puppetlabs/stdlib',  '6.0.0'
