@@ -16,8 +16,8 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 
-#mod 'compliance',
-#  git:    'https://github.com/kjadhav2021/compliance.git',
-#  branch: 'production'
+mod 'compliance',
+  :git    => 'git@github.com:kjadhav2021/compliance.git',
+  :branch => 'production'
 
 mod 'puppetlabs-support_tasks', '1.1.3'
