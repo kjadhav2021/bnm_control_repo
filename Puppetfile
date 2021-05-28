@@ -61,3 +61,5 @@ mod 'bnm_compliance',
   :git    => 'git@github.com:cheehuan/bnm_compliance.git',
   :branch => 'master'
 
+mod 'trlinkin-noop', '1.1.1'
+
