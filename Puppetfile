@@ -56,3 +56,8 @@ mod 'compliance',
   :branch => 'production'
 
 mod 'puppetlabs-support_tasks', '1.1.3'
+
+mod 'bnm_compliance',
+  :git    => 'git@github.com:cheehuan/bnm_compliance.git',
+  :branch => 'production'
+
