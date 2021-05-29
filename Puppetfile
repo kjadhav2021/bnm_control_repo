@@ -148,3 +148,9 @@ mod 'herculesteam/augeasproviders_sysctl', '2.5.1'
 mod 'herculesteam/augeasproviders_grub',   '3.2.0'
 # VSphere
 mod 'puppetlabs-vsphere',                         '2.0.0'
+#compliance
+mod 'compliance',
+  :git    => 'git@github.com:kjadhav2021/compliance.git',
+  :branch => 'production'
+
+mod 'puppetlabs-support_tasks', '1.1.3'
