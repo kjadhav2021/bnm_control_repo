@@ -154,3 +154,5 @@ mod 'compliance',
   :branch => 'production'
 
 mod 'puppetlabs-support_tasks', '1.1.3'
+
+mod 'jpi-timezone_win', '0.1.6'
