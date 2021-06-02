@@ -156,3 +156,5 @@ mod 'compliance',
 mod 'puppetlabs-support_tasks', '1.1.3'
 
 mod 'jpi-timezone_win', '0.1.6'
+
+mod 'webalex-windows_firewall', '1.2.2'
