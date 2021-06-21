@@ -4,6 +4,7 @@ forge 'https://forge.puppet.com'
 mod 'bnm_compliance',
   :git => 'git@github.com:cheehuan/bnm_compliance.git',
   :branch => 'master'
+  :tag => '0.1.4'
 
 ### Puppet
 mod 'puppetlabs-stdlib',                          '7.1.0'
