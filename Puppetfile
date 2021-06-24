@@ -1,9 +1,10 @@
 forge 'https://forge.puppet.com'
 #### CBM
 #:git => 'ssh://git@bitbucket:7999/cbm/bnm_patching.git',
-mod 'bnm_compliance',
-  :git => 'git@github.com:cheehuan/bnm_compliance.git',
-  :branch => 'master'
+# mod 'bnm_compliance',
+#   :git => 'git@github.com:cheehuan/bnm_compliance.git',
+#   :branch => 'master'
+
 
 ### Puppet
 mod 'puppetlabs-stdlib',                          '7.1.0'
@@ -149,9 +150,9 @@ mod 'herculesteam/augeasproviders_grub',   '3.2.0'
 # VSphere
 mod 'puppetlabs-vsphere',                         '2.0.0'
 #compliance
-#mod 'compliance',
-#  :git    => 'git@github.com:kjadhav2021/compliance.git',
-#  :branch => 'production'
+mod 'compliance',
+ :git    => 'git@github.com:kjadhav2021/compliance.git',
+ :branch => 'production'
 
 mod 'puppetlabs-support_tasks', '1.1.3'
 
