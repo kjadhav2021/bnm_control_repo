@@ -158,6 +158,6 @@ mod 'puppetlabs-support_tasks', '1.1.3'
 
 mod 'jpi-timezone_win', '0.1.6'
 
-#mod 'webalex-windows_firewall', '1.2.2'
+mod 'webalex-windows_firewall', '1.2.2'
 
 mod 'puppet-windows_firewall', '4.0.0'
