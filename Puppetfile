@@ -135,7 +135,7 @@ mod 'puppet-selinux',                             '3.3.1'
 mod 'puppetlabs-accounts',                        '7.0.2'
   # :git => 'ssh://git@bitbucket:7999/iso/puppetlabs-accounts.git',
   # :tag => 'v6.1.1'
-mod 'puppetlabs-firewall',                        '3.0.0'
+# mod 'puppetlabs-firewall',                        '3.0.0'
   # :git => 'ssh://git@bitbucket:7999/iso/puppetlabs-firewall.git',
   # :tag => 'v2.5.0'
 mod 'puppetlabs-haproxy',                         '6.0.1'
@@ -160,4 +160,4 @@ mod 'jpi-timezone_win', '0.1.6'
 
 mod 'webalex-windows_firewall', '1.2.2'
 
-mod 'puppet-windows_firewall', '4.0.0'
+# mod 'puppet-windows_firewall', '4.0.0'
