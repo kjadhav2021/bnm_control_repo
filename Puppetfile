@@ -161,3 +161,5 @@ mod 'jpi-timezone_win', '0.1.6'
 mod 'webalex-windows_firewall', '1.2.2'
 
 # mod 'puppet-windows_firewall', '4.0.0'
+#SQL server module
+mod 'puppetlabs-sqlserver', '3.0.0'
